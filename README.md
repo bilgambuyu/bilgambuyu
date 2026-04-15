@@ -16,8 +16,6 @@ I'm a developer passionate about leveraging automation and clean code to solve r
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bilgambuyu&layout=compact)](https://github.com/bilgambuyu)
 
-*Note: Recent activity began in April 2026 – more contributions coming soon!*
-
 ---
 
 ## Let's Connect
