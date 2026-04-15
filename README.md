@@ -12,9 +12,7 @@ I'm a developer passionate about leveraging automation and clean code to solve r
 - **Frameworks & Platforms:** Power BI, Excel, Windows PowerShell ISE
 ---
 
-## GitHub Stats & Activity
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bilgambuyu&show_icons=true&theme=default)](https://github.com/bilgambuyu)
+## Stats
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bilgambuyu&layout=compact)](https://github.com/bilgambuyu)
 
