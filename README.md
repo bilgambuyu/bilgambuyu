@@ -1,15 +1,13 @@
-# 👋 Hi, I'm Mbuyu Bilga
+# Hi, I'm Mbuyu Bilga
 
-🎯 **Currently focusing on:** Building practical tools for data management, financial tracking, and system integrity.
-
-I'm a developer passionate about leveraging automation and clean code to solve real-world problems. My work spans Excel asset management, financial systems, cybersecurity basics, and institutional web presence.
+I'm a developer passionate about leveraging automation and clean code to solve real-world problems.
 
 ---
 
 ## Tech Stack & Tools
 
 - **Languages:** HTML/CSS, SQL, Python, VBA, PowerShell
-- **Frameworks & Platforms:** GitHub Actions (exploring), Excel, Windows PowerShell ISE
+- **Frameworks & Platforms:** Power BI, Excel, Windows PowerShell ISE
 ---
 
 ## GitHub Stats & Activity
