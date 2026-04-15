@@ -1,6 +1,6 @@
-![Embassy DRC Geneva Website](sceenshot-profile.png)
-
 # Hi, I'm Mbuyu Bilga
+
+![My Profile Picture](sceenshot-profile.png)
 
 I'm a developer passionate about leveraging automation and clean code to solve real-world problems.
 
