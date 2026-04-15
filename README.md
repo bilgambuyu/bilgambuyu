@@ -1,4 +1,4 @@
-![Embassy DRC Geneva Website](screenshot-profile.png)
+![Embassy DRC Geneva Website](sceenshot-profile.png)
 
 # Hi, I'm Mbuyu Bilga
 
