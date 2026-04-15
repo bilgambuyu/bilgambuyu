@@ -23,6 +23,6 @@ I'm a developer passionate about leveraging automation and clean code to solve r
 ## Let's Connect
 
 - **LinkedIn:** [Mbuyu Bilga](https://www.linkedin.com/in/mbuyu-bilga/) (requires login)
-- **Email:** *[bilgambuyu@gmail.com]*
+- **Email:** *bilgambuyu@gmail.com*
 - **Portfolio:** [bilgambuyu.com](https://bilgambuyu.com)
 - **GitHub:** You're already here!
