@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/mbuyu-bilga/">
     <img src="https://img.shields.io/badge/LinkedIn-Mbuyu%20Bilga-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/">
+  <a href="https://twitter.com/bilgambuyu1">
     <img src="https://img.shields.io/badge/Twitter%2FX-Profile-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
   <a href="mailto:bilgambuyu@gmail.com">
