@@ -30,3 +30,7 @@ I'm a developer passionate about leveraging automation and clean code to solve r
 ## Stats
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bilgambuyu&layout=compact)](https://github.com/bilgambuyu)
+
+<p align="center">
+  Feel free to explore my repositories and connect!
+</p>
