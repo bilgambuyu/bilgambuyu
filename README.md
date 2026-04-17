@@ -1,6 +1,6 @@
 # Hi, I'm Mbuyu Bilga
 
-![My Profile Picture](sceenshot-profile.png)
+![My Profile Picture](cover-github.png)
 
 I'm a developer passionate about leveraging automation and clean code to solve real-world problems.
 
