@@ -25,8 +25,8 @@ I have served in several international organizations, including the United Natio
 
 ## Tech Stack & Tools
 
-- **Languages:** HTML/CSS, SQL, Python, VBA, PowerShell
-- **Frameworks & Platforms:** Power BI, Excel, Windows PowerShell ISE
+- **Languages:** HTML/CSS, JavaScript, SQL, Python, VBA, PowerShell
+- **Frameworks & Platforms:** Excel, Power BI, Windows PowerShell ISE
 ---
 
 ## Stats
