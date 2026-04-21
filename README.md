@@ -19,7 +19,7 @@
 
 I am a professional leveraging technology, automation, and clean code to solve real-world problems. My career spans project support, communications, and IT, with a focus on creating efficient, data-driven solutions for complex global challenges.
 
-I have served in several international organizations, including the United Nations across three duty stations (Addis Ababa, Geneva, and Vienna). My professional background also includes impactful roles at TASSC International, Ecologists Without Borders, and CLEAR Global, as well as experience within the private sector.
+I have served in several international organizations, including the United Nations across three duty stations (Addis Ababa, Geneva, Vienna). My professional background also includes roles at TASSC International, Ecologists Without Borders, and CLEAR Global, as well as experience within the private sector.
 
 ---
 
